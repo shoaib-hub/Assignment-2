@@ -23,3 +23,8 @@ public class Greatest_key {
 	 }
 	}
 
+// output 
+// Value before poll: {10=Red, 20=Green, 40=Black, 50=White, 60=Pink}     
+// Value returned: 10=Red                                                 
+// Value after poll: {20=Green, 40=Black, 50=White, 60=Pink}
+
